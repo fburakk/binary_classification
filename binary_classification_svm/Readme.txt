@@ -1,7 +1,7 @@
 # Two Class(Binary) Classification Demo
 
 
-## This code implements basic SVM classification for 10 datasets
+## This is the implementation of SVM classification technique for 10 datasets
 ## taken from UC Irvine Machine Learning Repository
 ## Misclassification Rates are given at the end(command window)
 
