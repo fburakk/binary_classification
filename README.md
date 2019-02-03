@@ -1,7 +1,7 @@
 # Binary Classification Demo
 
 
-## This is the implementation of SVM classification technique for 10 datasets taken from UC Irvine Machine Learning Repository Misclassification Rates are given at the end(command window)
+### This is the implementation of SVM classification technique for 10 datasets taken from UC Irvine Machine Learning Repository, Misclassification Rates are given at the end(command window)
 
  Datasets:
    * 1 --> Breast Cancer Wisconsin Original
